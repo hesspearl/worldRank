@@ -1,34 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+ <strong > 
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <h1 align="center"> Mterial- ui projects 
+ 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</h1> </ strong>
+<strong > 
+ <h2/>
+ This repo have multiaple projects that uses material-ui components
+</h2>
+</ strong>
+<br>
+<p> Tools :</p >
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual studio code
+<br>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<img align="center" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />React<br>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Material-ui<br>
 
-## Learn More
+ <img align="center" alt="javascript" width="26px"
+ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript<br>
+<br>
+<img align="center" alt="Visual Studio Code" width="26px" src="https://img.stackshare.io/service/12244/responsivel.png" /> Resposively
+<br>
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br>
+<br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h1>
+  First project {island)
 
-## Deploy on Vercel
+✍️ [credit to ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s)👈
+</h1>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  <p align="center" >
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/island/images/website1.jpg"/>
+  </p>
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/island/images/website2.jpg"/>
+  </p>
+ <br>
+
+ 
+ <br>
+ 
+ <h1>
+  second project {blog)
+
+✍️ [inspired by  ](https://www.youtube.com/watch?v=DJ1_CKs_LPI)👈
+</h1>
+
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/blog/images/header.jpg"/>
+  </p>
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/blog/images/body.jpg"/>
+  </p>
+ <br>
+
+ 
+ <br>
+
