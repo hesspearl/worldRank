@@ -34,6 +34,9 @@
 
 
 ✍️ [credit to ](https://www.youtube.com/watch?v=v8o9iJU5hEA&t=2609s)👈
+ <br>
+📄[credit to ](https://world-rank-nu.vercel.app/)
+ 
 </h1>
 
   <p align="center" >
